@@ -1,2 +1,2 @@
-#!/bing/bash
-ls-a
+#!/bin/bash
+ls -a
