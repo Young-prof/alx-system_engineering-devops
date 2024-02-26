@@ -1,14 +1,10 @@
-Project Name
+Project Name: 0x04. Loops, conditions and parsing
 
-0x04. Loops, conditions and parsing
+Author's Details: Name: Tekenatei Franklyn
 
-Author's Details.
+Email: frankiperezi@gmail.com
 
-Name: Karlie Moyo
-
-Email: karlieemoyo@gmail.com
-
-Tel: +27 844775229
+Tel: +2348132714969
 
 Requirements
 Bash Scripts
@@ -73,7 +69,3 @@ Learn how to create SSH keys. What is the advantage of using #!/usr/bin/env bash
     185.130.5.207 301
     185.130.5.207 301
     
-
-Collaborate
-
-To collaborate, reach me through my email address Karlieemoyo@gmail.com
